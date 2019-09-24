@@ -3,7 +3,7 @@
 #### 联系（Relationship）　　　　　　　　　　　现实中的关系：工作
 #### 属性（Attribute）　　　　　　　　　　　　　现实中的特质：学历，工龄　
 
-
+<br/><br/>
 二元ER Model：只有两个实体（元）和一段关系的model（推荐）
 
 
