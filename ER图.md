@@ -13,5 +13,6 @@
 #### 候选键：除主键外的属性　　<br/><br/>
 #### 弱实体：必须依赖强属性存在的属性　　　　　　e.g.学校教职工子女与学校的关系　<br/><br/>
 #### ER图符号
-![a](https://sm.ms/image/41Ybgdhvux3jXzt)
+![ER_notations](https://i.loli.net/2019/09/24/41Ybgdhvux3jXzt.png)
+
 
