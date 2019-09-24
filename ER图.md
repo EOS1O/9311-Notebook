@@ -1,7 +1,7 @@
 ## ER Model：实体联系模型
-### 实体（Entity）                                现实中的事物：职员
-### 联系（Relationship）                     现实中的关系：工作
-### 属性（Attribute）                            现实中的特质：学历，工龄
+#### 实体（Entity）　　　　　　　　　　　　　　现实中的事物：职员
+#### 联系（Relationship）　　　　　　　　　　　现实中的关系：工作
+#### 属性（Attribute）　　　　　　　　　　　　　现实中的特质：学历，工龄
 
 二元ER Model：只有两个实体（元）和一段关系的model（推荐）
 
