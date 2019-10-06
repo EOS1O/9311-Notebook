@@ -16,7 +16,7 @@
 
 #### 第三步：1：1的关系
 1.选择任一个当做主体，将另一个的主键添加到属性做外键 <br/><br/>
-（Totally关系优先于Partial的添加外键） <br/><br/>
+（Totally关系优先于Partial添加外键） <br/><br/>
 2.将外键连接至另一个实体的主键 <br/><br/>
 
 #### 第四步：1：N 
@@ -37,7 +37,7 @@
 
 #### 第七步：多元关系
 处理步骤同MN <br/><br/>
-
+PS：Msdate是关系manage的属性，要一同附加到外键里去
 ![ER](https://i.loli.net/2019/09/24/RoHu32GdkjrcCMb.jpg)
 ![RMD](https://i.loli.net/2019/09/24/9oxhDvRAW3VbBum.jpg) <br/><br/>
 
